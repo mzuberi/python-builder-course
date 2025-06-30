@@ -1,6 +1,6 @@
 # Python Builder Course 🧠💻 By Mona SK
 
-A self-paced Python practice journey completed in 2 days — covering everything from variables and loops to file handling and mini-projects.
+A self-paced Python practice journey — covering everything from variables and loops to file handling and mini-projects.
 
 ## 🛠 What I Learned
 
