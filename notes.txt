@@ -1,0 +1,11 @@
+Day 1 Notes — Python Builder
+
+✔ Learned about:
+- Variables: store data like strings, numbers, booleans
+- Print statements: used to display information
+- f-strings: format strings for cleaner messages
+
+🧘 Mini wellness use case:
+Used a variable to track how I feel + the workout I did = journaled my day!
+
+Next up: data structures (lists, dictionaries) and small exercises using them.

@@ -1,0 +1,28 @@
+Mood: energized
+Entry: I feel like I can take on anything!
+--------------------
+Day 14 - Clean Code
+What I learned today about writing clean code, comments, and function names:
+- 
+
+Day 15 – Rectangle with Feedback
+Mood:
+What did I learn:
+How did conditionals add value:
+
+-----
+
+Day 16 – File Handling
+Mood:
+What did I learn:
+How might I use this in Move With Mona AI?
+
+-----------
+Mood: good | Reflection: all things python!
+
+-----
+
+Day 17 – Functions + Reusability
+Mood:
+What did I love about today's code:
+How might I reuse this in a real app like Move With Mona AI?
